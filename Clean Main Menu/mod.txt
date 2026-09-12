@@ -10,7 +10,7 @@
 			{
 				"identifier": "CleanMainMenu",
 				"host": {
-						"meta": ""
+						"meta": "https://raw.githubusercontent.com/eidenvelsberg/pd2-cmm/main/meta.json"
 				}
 			}
 	],
