@@ -1,0 +1,23 @@
+{
+	"name": "Clean Main Menu",
+	"description": "Cleans the PAYDAY 2 main menu",
+	"author": "Eiden Velsberg (Kelvges)",
+	"contact": "@EidenVelsberg (Discord)",
+	"image": "icon.png",
+	"version": "0.1.0",
+	"color": "0 0 0",
+	"updates": [
+			{
+				"identifier": "CleanMainMenu",
+				"host": {
+						"meta": ""
+				}
+			}
+	],
+	"hooks": [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "main.lua"
+		}
+	]
+}
