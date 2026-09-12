@@ -1,5 +1,7 @@
-{
+[
+  {
     "ident": "CleanMainMenu",
     "version": "0.1.0",
     "download_url": "https://github.com/eidenvelsberg/pd2-clean-main-menu/releases/latest/download/Clean-Main-Menu.zip"
-}
+  }
+]
