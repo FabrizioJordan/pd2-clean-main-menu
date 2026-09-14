@@ -1,18 +1,18 @@
 {
 	"name": "Clean Main Menu",
-	"description": "Cleans the PAYDAY 2 main menu",
+	"description": "Adds options to hide unnecessary widgets from the main menu",
 	"author": "Eiden Velsberg (Kelvges)",
 	"contact": "@EidenVelsberg (Discord)",
 	"image": "icon.png",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"color": "0 0 0",
 	"updates": [
-			{
-				"identifier": "CleanMainMenu",
-				"host": {
-						"meta": "https://raw.githubusercontent.com/eidenvelsberg/pd2-clean-main-menu/main/meta.json"
-				}
+		{
+			"identifier": "CleanMainMenu",
+			"host": {
+					"meta": "https://raw.githubusercontent.com/eidenvelsberg/pd2-clean-main-menu/main/meta.json"
 			}
+		}
 	],
 	"hooks": [
 		{
