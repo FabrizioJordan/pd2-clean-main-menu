@@ -1,6 +1,7 @@
 # Clean Main Menu
-![Before](Before.jpg)
-![After](After.jpg)
+![Before](Before.png)
+![After](After.png)
+![Options](Options.png)
 ## Features
 The following elements are removed:
 - Promotional Banner
