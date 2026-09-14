@@ -1,0 +1,191 @@
+{
+    "menu_id" : "clean_main_menu_options",
+    "parent_menu_id" : "blt_options",
+    "title" : "clean_main_menu_title",
+    "back_callback" : "callback_clean_main_menu_close",
+    "items" : [
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_promotional_banner",
+            "title" : "clean_main_menu_hide_promotional_banner_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_promotional_banner"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_dlc_promo_text",
+            "title" : "clean_main_menu_hide_dlc_promo_text_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_dlc_promo_text"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_menu_option_description",
+            "title" : "clean_main_menu_hide_menu_option_description_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_menu_option_description"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_statistics",
+            "title" : "clean_main_menu_hide_statistics_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_statistics"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_announcements_feed",
+            "title" : "clean_main_menu_hide_announcements_feed_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_announcements_feed"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_build_version",
+            "title" : "clean_main_menu_hide_build_version_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_build_version"
+        },
+        {
+            "type" : "multiple_choice",
+            "id" : "clean_main_menu_mod_manager_widget",
+            "title" : "clean_main_menu_mod_manager_widget_title",
+            "callback" : "callback_clean_main_menu_mod_manager_widget",
+            "items" : [
+                "clean_main_menu_mod_manager_hide",
+                "clean_main_menu_mod_manager_show",
+                "clean_main_menu_mod_manager_notifications"
+            ],
+            "item_values" : [1, 2, 3],
+            "value" : "mod_manager_widget_mode"
+        },
+        {
+        "type" : "divider",
+        "size" : 24
+         },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_payday_logo",
+            "title" : "clean_main_menu_hide_payday_logo_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_payday_logo"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_character",
+            "title" : "clean_main_menu_hide_character_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_character"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_particles",
+            "title" : "clean_main_menu_hide_particles_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_particles"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_smoke",
+            "title" : "clean_main_menu_hide_smoke_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_smoke"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_background_pattern",
+            "title" : "clean_main_menu_hide_background_pattern_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_background_pattern"
+        },
+        {
+            "type" : "divider",
+            "size" : 24
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_playonline_button",
+            "title" : "clean_main_menu_hide_playonline_button_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_playonline_button"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_playoffline_button",
+            "title" : "clean_main_menu_hide_playoffline_button_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_playoffline_button"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_socialhub_button",
+            "title" : "clean_main_menu_hide_socialhub_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_socialhub_button"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_career_button",
+            "title" : "clean_main_menu_hide_career_button_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_career_button"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_inventory_button",
+            "title" : "clean_main_menu_hide_inventory_button_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_inventory_button"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_achievements_button",
+            "title" : "clean_main_menu_hide_achievements_button_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_achievements_button"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_steamitems_button",
+            "title" : "clean_main_menu_hide_steamitems_button_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_steamitems_button"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_fbifiles_button",
+            "title" : "clean_main_menu_hide_fbifiles_button_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_fbifiles_button"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hide_community_button",
+            "title" : "clean_main_menu_hide_community_button_title",
+            "callback" : "callback_clean_main_menu_toggle",
+            "value" : "hide_community_button"
+        },    
+        {
+            "type" : "divider",
+            "size" : 24
+        },
+        {
+            "type" : "multiple_choice",
+            "id" : "clean_main_menu_hover_highlight",
+            "title" : "clean_main_menu_hover_highlight_title",
+            "callback" : "callback_clean_main_menu_hover_highlight",
+            "items" : [
+                "clean_main_menu_hover_standard",
+                "clean_main_menu_hover_text",
+            ],
+            "value" : "hover_highlight"
+        },
+        {
+            "type" : "toggle",
+            "id" : "clean_main_menu_hover_sound",
+            "title" : "clean_main_menu_hover_sound_title",
+            "callback" : "callback_clean_main_menu_hover_sound",
+            "value" : "hover_sound"
+        }
+    ]
+}
