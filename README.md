@@ -1,6 +1,7 @@
-# Clean Main Menu
+## Comparison
 ![Before](Before.png)
 ![After](After.png)
+## Options
 ![Options](Options.png)
 ## Features
 The following elements are removed:
