@@ -15,17 +15,4 @@
     "clean_main_menu_hide_particles_title": "Hide particles",
     "clean_main_menu_hide_smoke_title": "Hide smoke",
     "clean_main_menu_hide_background_pattern_title": "Hide background pattern",
-    "clean_main_menu_hide_playonline_button_title": "Hide «Play Online»",
-    "clean_main_menu_hide_playoffline_button_title": "Hide «Play Offline»",
-    "clean_main_menu_hide_socialhub_title": "Hide «Social Hub»",
-    "clean_main_menu_hide_career_button_title": "Hide «Career»",
-    "clean_main_menu_hide_inventory_button_title": "Hide «Inventory»",
-    "clean_main_menu_hide_achievements_button_title": "Hide «Achievements»",
-    "clean_main_menu_hide_steamitems_button_title": "Hide «Steam Inventory»",
-    "clean_main_menu_hide_fbifiles_button_title": "Hide «FBI Files»",
-    "clean_main_menu_hide_community_button_title": "Hide «Community»",
-    "clean_main_menu_hover_highlight_title": "Hover Highlight",
-    "clean_main_menu_hover_standard": "Standard",
-    "clean_main_menu_hover_text": "Text Only",
-    "clean_main_menu_hover_sound_title": "Hover Sound"
 }
